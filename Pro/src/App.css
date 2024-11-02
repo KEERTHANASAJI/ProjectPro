@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#id{
+  font-size: 20em;
+}
+#bu{
+  margin-left: 75em;
+}
+#bu1{
+  margin-left: 11em;
+}
+#pr{
+  /* margin-left: 1em; */
+  font-family: Algerian;
+  font-size: 3em;
+}
+#fo{
+  border: 3px solid ;
+  margin-left: 20em;
+  margin-right: 20em;
+ padding: 30px;
+  background-image: url(https://img.freepik.com/premium-photo/empty-background_1003030-12649.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
